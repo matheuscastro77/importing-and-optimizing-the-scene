@@ -1,5 +1,9 @@
 # Three.js Journey
 
+## DEPLOY
+
+[Importing and Optimizing the Scene](https://importing-and-optimizing-the-scene-henna.vercel.app/)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
